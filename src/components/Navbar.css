@@ -1,0 +1,37 @@
+.Navbar .myContainer {
+  height: 120px;
+  background: linear-gradient(
+    to top,
+    #505285 0%,
+    #585e92 12%,
+    #65689f 25%,
+    #7474b0 37%,
+    #7e7ebb 50%,
+    #8389c7 62%,
+    #9795d4 75%,
+    #a2a1dc 87%,
+    #b5aee4 100%
+  );
+  color: white;
+}
+.Navbar .myName {
+  margin-top: 40px;
+  text-align: center;
+}
+.Navbar .myNavTab {
+  margin-top: 35px;
+}
+.Navbar h2 {
+  font-size: 30px;
+}
+.Navbar a {
+  color: white;
+}
+
+.Navbar a:hover {
+  color: #505285;
+}
+
+.nav {
+  --bs-nav-link-hover-color: #030881 !important;
+}

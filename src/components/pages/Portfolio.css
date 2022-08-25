@@ -1,0 +1,12 @@
+.Portfolio img {
+  width: 100%;
+  display: inline;
+}
+
+.Portfolio img:hover {
+  opacity: 0.7;
+}
+.Portfolio span {
+  position: absolute;
+  margin-top: 20px;
+}

@@ -1,0 +1,17 @@
+.Contact .myBtn {
+  background: #7474b0;
+
+  color: white;
+}
+
+.Contact a {
+  color: #7474b0;
+  text-decoration: none;
+}
+.Contact a:hover {
+  background: #7474b0;
+
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+}
