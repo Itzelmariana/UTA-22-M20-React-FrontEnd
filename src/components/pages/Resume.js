@@ -1,11 +1,21 @@
 import React from 'react';
 
+import './Resume.css';
+
 export default function Resume() {
   return (
-    <div className='About container mb-4 mt-5'>
+    <div className='Resume container mb-4 mt-5'>
       <h1>Resume</h1>
 
-      <p>Downloaded my resume</p>
+      <p>
+        Downloaded my{' '}
+        <a
+          href='https://drive.google.com/file/d/1n6tznTvi1JmKNATBUhwbVxHmE52L3pG0/view?usp=sharing'
+          target='blank'
+        >
+          Resume
+        </a>
+      </p>
       <h4>Front-End Proficiencies</h4>
       <ul>
         <li>HTML</li>

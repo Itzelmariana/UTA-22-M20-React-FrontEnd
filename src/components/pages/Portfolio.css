@@ -1,12 +1,50 @@
-.Portfolio img {
-  width: 100%;
-  display: inline;
+.Portfolio figure.imgProject1 {
+  background-image: url('https://s3.amazonaws.com/shecodesio-production/uploads/files/000/044/475/original/weather.png?1661388395');
+  background-size: cover;
+  height: 350px;
+  border-radius: 30px;
 }
 
-.Portfolio img:hover {
+.Portfolio figure:hover {
   opacity: 0.7;
 }
-.Portfolio span {
-  position: absolute;
-  margin-top: 20px;
+.Portfolio a {
+  text-decoration: none;
+  color: black;
+}
+
+.Portfolio a:hover {
+  background: #505285;
+  color: white;
+  padding: 8px;
+  border-radius: 10px;
+}
+.Portfolio .textProject {
+  padding-top: 20px;
+  background: rgb(245, 245, 245, 0.9);
+  padding: 5px;
+  border-radius: 30px;
+}
+.Portfolio .textProject:hover {
+  display: block !important;
+}
+
+.Portfolio figure.imgProject2 {
+  background-image: url('https://s3.amazonaws.com/shecodesio-production/uploads/files/000/044/532/original/Screen_Shot_2022-08-25_at_8.58.14_AM.png?1661436200');
+  background-size: cover;
+  height: 350px;
+  border-radius: 30px;
+}
+
+.Portfolio figure.imgProject3 {
+  background-image: url('https://s3.amazonaws.com/shecodesio-production/uploads/files/000/044/537/original/Screen_Shot_2022-08-25_at_9.52.15_AM.png?1661439906');
+  background-size: contain;
+  height: 350px;
+  border-radius: 30px;
+}
+.Portfolio figure.imgProject4 {
+  background-image: url('https://s3.amazonaws.com/shecodesio-production/uploads/files/000/044/539/original/Screen_Shot_2022-08-25_at_10.11.19_AM.png?1661440313');
+  background-size: cover;
+  height: 350px;
+  border-radius: 30px;
 }

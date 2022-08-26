@@ -1,0 +1,8 @@
+.Resume a {
+  text-decoration: none;
+  color: palevioletred;
+}
+
+.Resume a:hover {
+  color: #b5aee4;
+}
