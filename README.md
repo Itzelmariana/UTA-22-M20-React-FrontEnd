@@ -38,9 +38,9 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Usage
 
-The following animation shows the web application's appearance and functionality:
+Find deploye website at [link](https://react-portfolio-itzel.herokuapp.com/)
 
-![User clicks through About Me, Portfolio, Resume, and Contact sections on the webpage and enters information on Contact page.](./docs/20-react-homework-demo-01.gif)
+![Mockup](./docs/img.png)
 
 ## Credits
 
@@ -57,3 +57,4 @@ The technologies used in this project are as follow:
 - JavaScript
 - Node.js
 - React
+- Heroku
