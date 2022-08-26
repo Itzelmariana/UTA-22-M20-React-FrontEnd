@@ -9,7 +9,7 @@ export default function portfolio() {
 
       <div className='row'>
         <div className='col-lg-4 col-md-6'>
-          <figure className='imgProject1 '>
+          <figure className='imgProject1'>
             <div className='textProject'>
               <h2>
                 <a href='https://01-my-first-weather-app.netlify.app/'>
@@ -36,10 +36,6 @@ export default function portfolio() {
 
         <div className='col-lg-4 col-md-6'>
           <figure className='imgProject2'>
-            {/* <img
-              src='https://s3.amazonaws.com/shecodesio-production/uploads/files/000/044/532/original/Screen_Shot_2022-08-25_at_8.58.14_AM.png?1661436200'
-              alt='QueartzApp'
-            /> */}
             <div className='textProject'>
               <h2>
                 <a href='https://quartzg3.herokuapp.com/'> Quartz App </a>
@@ -62,10 +58,6 @@ export default function portfolio() {
         </div>
         <div className='col-lg-4 col-md-6'>
           <figure className='imgProject3'>
-            {/* <img
-              src='https://s3.amazonaws.com/shecodesio-production/uploads/files/000/044/475/original/weather.png?1661388395'
-              alt='weatherApp'
-            /> */}
             <div className='textProject'>
               <h2>
                 <a href='https://thetruemop.github.io/Launch-Time/'>
