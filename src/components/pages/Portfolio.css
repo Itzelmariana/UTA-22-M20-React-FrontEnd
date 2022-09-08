@@ -60,3 +60,14 @@
   -webkit-box-shadow: 1px 2px 13px 5px rgba(0, 0, 0, 0.31);
   box-shadow: 1px 2px 13px 5px rgba(0, 0, 0, 0.31);
 }
+
+.Portfolio figure.imgProject5 {
+  background-image: url('https://s3.amazonaws.com/shecodesio-production/uploads/files/000/045/751/original/Screen_Shot_2022-09-07_at_10.33.03_PM.png?1662608361');
+  background-size: cover;
+  background-position: center;
+  height: 350px;
+  border-radius: 30px;
+  text-align: center;
+  -webkit-box-shadow: 1px 2px 13px 5px rgba(0, 0, 0, 0.31);
+  box-shadow: 1px 2px 13px 5px rgba(0, 0, 0, 0.31);
+}

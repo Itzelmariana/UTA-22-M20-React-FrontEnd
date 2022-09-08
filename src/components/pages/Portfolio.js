@@ -105,10 +105,10 @@ export default function portfolio() {
           </figure>
         </div>
         <div className='col-lg-4 col-md-6'>
-          <figure className='imgProject4'>
+          <figure className='imgProject5'>
             <div className='textProject'>
               <h2>
-                <a href='/'> Olympiad </a>
+                <a href='https://olympiad-game.herokuapp.com/'> Olympiad </a>
                 <a href='https://github.com/Itzelmariana/Olympiad'>
                   <svg
                     xmlns='http://www.w3.org/2000/svg'
