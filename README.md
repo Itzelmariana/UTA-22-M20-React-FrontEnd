@@ -1,4 +1,4 @@
-# 20 React: React Portfolio
+# 20 React: React Front-End
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -39,8 +39,6 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ## Usage
 
 Find deploye website at [link](https://react-portfolio-itzel.herokuapp.com/)
-
-![Mockup](./docs/img.png)
 
 ## Credits
 
